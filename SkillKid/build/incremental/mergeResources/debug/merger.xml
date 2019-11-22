@@ -1,0 +1,1312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="D:\work\SkillKidProject\SkillKid\src\main\res" >
+            <file
+                name="ic_launcher"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="back"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\back.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="bag_img"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\bag_img.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="bag_item1"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\bag_item1.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="bag_item2"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\bag_item2.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="bag_item3"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\bag_item3.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="bag_item4"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\bag_item4.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="beans_item1"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\beans_item1.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="beans_item2"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\beans_item2.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="beans_item3"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\beans_item3.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="beans_item4"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\beans_item4.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="beans_item5"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\beans_item5.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="bed"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\bed.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="best"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\best.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="bg"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\bg.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="bg_score"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\bg_score.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="bg_statis"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\bg_statis.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="boat_item"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\boat_item.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="boat_item1"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\boat_item1.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="boat_item10"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\boat_item10.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="boat_item2"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\boat_item2.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="boat_item3"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\boat_item3.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="boat_item4"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\boat_item4.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="boat_item5"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\boat_item5.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="boat_item6"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\boat_item6.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="boat_item7"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\boat_item7.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="boat_item8"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\boat_item8.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="boat_item9"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\boat_item9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="captain_img"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\captain_img.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="captain_item1"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\captain_item1.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="captain_item10"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\captain_item10.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="captain_item2"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\captain_item2.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="captain_item3"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\captain_item3.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="captain_item4"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\captain_item4.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="captain_item5"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\captain_item5.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="captain_item6"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\captain_item6.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="captain_item7"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\captain_item7.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="captain_item8"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\captain_item8.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="captain_item9"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\captain_item9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="check"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\check.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="circletrue"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\circletrue.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="color"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\color.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="color_f1"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\color_f1.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="color_f2"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\color_f2.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="color_f3"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\color_f3.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="color_f4"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\color_f4.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="color_f5"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\color_f5.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="color_f6"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\color_f6.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="color_maesee"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\color_maesee.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="color_t1"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\color_t1.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="color_t2"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\color_t2.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="color_t3"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\color_t3.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="color_t4"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\color_t4.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="color_t5"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\color_t5.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="color_t6"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\color_t6.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="continues"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\continues.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="dd_f1"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\dd_f1.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="dd_f2"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\dd_f2.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="dd_img01"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\dd_img01.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="dd_img02"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\dd_img02.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="dd_t3"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\dd_t3.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="dog_choice"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\dog_choice.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="dog_choice1"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\dog_choice1.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="dog_choice2"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\dog_choice2.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="dog_choice3"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\dog_choice3.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="dog_choice4"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\dog_choice4.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="dog_choice5"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\dog_choice5.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="dog_img"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\dog_img.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="dog_item1"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\dog_item1.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="dog_item2"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\dog_item2.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="dog_item3"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\dog_item3.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="dog_item4"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\dog_item4.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="dog_item5"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\dog_item5.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="dr_bg"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\dr_bg.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="dr_item1"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\dr_item1.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="dr_item10"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\dr_item10.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="dr_item11"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\dr_item11.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="dr_item12"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\dr_item12.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="dr_item13"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\dr_item13.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="dr_item2"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\dr_item2.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="dr_item3"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\dr_item3.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="dr_item4"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\dr_item4.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="dr_item5"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\dr_item5.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="dr_item6"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\dr_item6.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="dr_item7"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\dr_item7.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="dr_item8"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\dr_item8.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="dr_item9"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\dr_item9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="eat_daw"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\eat_daw.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="eat_kawpud"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\eat_kawpud.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="eat_kijeaw"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\eat_kijeaw.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="eat_somtam"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\eat_somtam.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="emblem"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\emblem.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="even_a"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\even_a.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="even_a_"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\even_a_.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="even_b"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\even_b.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="even_b_"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\even_b_.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="even_c"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\even_c.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="even_c_"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\even_c_.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="even_d"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\even_d.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="even_d_"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\even_d_.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="even_e"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\even_e.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="even_e_"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\even_e_.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="even_f"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\even_f.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="even_f_"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\even_f_.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="even_g"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\even_g.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="even_g_"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\even_g_.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="even_img"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\even_img.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="five"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\five.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="four"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\four.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="good"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\good.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="home"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\home.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="h_img1"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\h_img1.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="h_img2"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\h_img2.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="h_img3"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\h_img3.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="icon"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\icon.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="img"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\img.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="index"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\index.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="introduce"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\introduce.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="max"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\max.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="min"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\min.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="one"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\one.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="option_choice1"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\option_choice1.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="option_choice2"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\option_choice2.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="option_choice3"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\option_choice3.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="option_choice4"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\option_choice4.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="option_item1"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\option_item1.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="option_item10"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\option_item10.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="option_item11"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\option_item11.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="option_item12"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\option_item12.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="option_item13"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\option_item13.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="option_item14"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\option_item14.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="option_item15"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\option_item15.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="option_item16"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\option_item16.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="option_item17"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\option_item17.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="option_item18"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\option_item18.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="option_item19"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\option_item19.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="option_item2"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\option_item2.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="option_item3"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\option_item3.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="option_item4"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\option_item4.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="option_item5"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\option_item5.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="option_item6"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\option_item6.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="option_item7"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\option_item7.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="option_item8"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\option_item8.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="option_item9"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\option_item9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="popbest"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\popbest.gif"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="sb_item1"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\sb_item1.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="sb_item2"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\sb_item2.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="sb_item3"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\sb_item3.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="sb_item4"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\sb_item4.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="sb_item5"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\sb_item5.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="sea_img"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\sea_img.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="sea_item1"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\sea_item1.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="sea_item10"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\sea_item10.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="sea_item11"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\sea_item11.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="sea_item12"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\sea_item12.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="sea_item2"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\sea_item2.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="sea_item3"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\sea_item3.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="sea_item4"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\sea_item4.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="sea_item5"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\sea_item5.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="sea_item6"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\sea_item6.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="sea_item7"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\sea_item7.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="sea_item8"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\sea_item8.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="sea_item9"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\sea_item9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="sf_item1"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\sf_item1.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="sf_item2"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\sf_item2.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="sf_item3"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\sf_item3.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="sf_item4"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\sf_item4.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="sf_item5"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\sf_item5.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="sf_item6"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\sf_item6.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="six"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\six.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="sound"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\sound.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="start"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\start.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="statisbutton"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\statisbutton.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="three"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\three.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="toby_bg"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\toby_bg.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="toby_item"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\toby_item.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="two"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\two.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="wow_img"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\wow_img.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="wow_item1"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\wow_item1.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="wow_item2"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\wow_item2.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="wow_item3"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\wow_item3.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="wow_item4"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\wow_item4.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-xxhdpi\ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="activity_dialog_change"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\layout\activity_dialog_change.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_main"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\layout\activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_stat"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\layout\activity_stat.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_sum"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\layout\activity_sum.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_test"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\layout\activity_test.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fadeendin"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\layout\fadeendin.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fadeendout"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\layout\fadeendout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="mainfadein"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\layout\mainfadein.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="mainfadeout"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\layout\mainfadeout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="game_stat"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\menu\game_stat.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="game_sum"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\menu\game_sum.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="main"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\menu\main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="one_test"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\menu\one_test.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="advice"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\raw\advice.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="bed"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\raw\bed.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="best"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\raw\best.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="falsesound"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\raw\falsesound.WAV"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="good"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\raw\good.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="q1"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\raw\q1.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="q10"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\raw\q10.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="q11"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\raw\q11.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="q12"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\raw\q12.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="q13"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\raw\q13.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="q14"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\raw\q14.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="q15"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\raw\q15.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="q16"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\raw\q16.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="q17"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\raw\q17.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="q18"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\raw\q18.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="q19"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\raw\q19.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="q2"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\raw\q2.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="q20"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\raw\q20.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="q3"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\raw\q3.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="q4"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\raw\q4.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="q5"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\raw\q5.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="q6"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\raw\q6.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="q7"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\raw\q7.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="q8_1"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\raw\q8_1.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="q8_2"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\raw\q8_2.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="q9"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\raw\q9.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="score"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\raw\score.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="successsound"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\raw\successsound.WAV"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="truesound"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\raw\truesound.WAV"
+                qualifiers=""
+                type="raw" />
+            <file
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\values\attrs.xml"
+                qualifiers="" >
+                <declare-styleable name="CustomTheme" >
+                    <attr
+                        name="gifMoviewViewStyle"
+                        format="reference" />
+                </declare-styleable>
+                <declare-styleable name="GifMoviewView" >
+                    <attr
+                        name="gif"
+                        format="reference" />
+                    <attr
+                        name="paused"
+                        format="boolean" />
+                </declare-styleable>
+            </file>
+            <file
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="min" >นาที 
+                </string>
+                <string name="action_settings" >Settings
+                </string>
+                <string name="title_activity_one_test" >OneTest
+                </string>
+                <string name="really_exit_game" >ออกจากเกม?
+                </string>
+                <string name="title_activity_game_stat" >MainActivity
+                </string>
+                <string name="sure_exit" >ออกจากแอพพลิเคชั่น?
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+                <string name="text_q11" >เรียงปริมาณน้ำจากสิ่งที่น้อยไปมากนะครับ ?
+                </string>
+                <string name="use_time" >ใช้เวลา 
+                </string>
+                <string name="text_q10" >เรียงสิ่งที่ช้าไปเร็วนะครับ ?
+                </string>
+                <string name="text_q13" >เรียงการงอกของเมล็ดนะครับ ?
+                </string>
+                <string name="hour" >ชั่วโมง 
+                </string>
+                <string name="text_q12" >เห็นว่าวอะไรบ้างครับ ?
+                </string>
+                <string name="text_q4" >ลองจับคู่สิ่งที่ยู่ในหมวดเดียวกันนะครับ ?
+                </string>
+                <string name="text_q3" >ในห้องนี้มีสิ่งที่เป็นอันตรายบ้างเอ่ย ?
+                </string>
+                <string name="text_q2" >สีเขียวอันไหนคือดุกดุ๋ย ?
+                </string>
+                <string name="text_q1" >โทบี้อยู่ตรงไหนเอ่ย ?
+                </string>
+                <string name="text_q8" >มีอะไรอยู่บ้าง ?
+                </string>
+                <string name="sec" >วินาที
+                </string>
+                <string name="text_q7" >มีกระเป๋าไว้ใส่อะไรเอ่ย ?
+                </string>
+                <string name="text_q19" >ตัวไหนอายุมากที่สุดและอายุน้อยที่สุดครับ ?
+                </string>
+                <string name="text_q6" >ดาวชอบกินอะไรมากที่สุดเอ่ย ?
+                </string>
+                <string name="text_q18" >ตัวไหนอายุมากและอายุน้อยครับ ?
+                </string>
+                <string name="text_q5" >กำลังอยู่หน้าตึกไหนอยู่ไหนเอ่ย ?
+                </string>
+                <string name="text_q17" >ตัวไหนชื่ออะไรบ้างครับ ?
+                </string>
+                <string name="text_q16" >จะเห็นสัตว์ตัวไหนบ้างครับ ?
+                </string>
+                <string name="text_q15" >แม่สีสามารถผสมกันเป็นสีอะไรได้บ้างครับ ?
+                </string>
+                <string name="text_q14" >อะไรบ้างที่มีรูปร่างคล้ายโดนัทครับ ?
+                </string>
+                <string name="really_exit" >ออกจากแอพพลิเคชั่น?
+                </string>
+                <string name="text_q9" >ลากสิ่งต่างๆเหล่านี้ไปไว้ในหมวดที่ควรอยู่นะครับ ?
+                </string>
+                <string name="title_activity_game_sum" >SumTest
+                </string>
+                <string name="sure_exit_game" >ออกจากเกม?
+                </string>
+                <string name="text_q20" >ตัวไหนอายุมากสุดไปหาตัวที่อายุน้อยสุด ?
+                </string>
+                <string name="app_name" >SkillKid
+                </string>
+            </file>
+            <file
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="Widget.GifMoviewView"
+                    parent="@android:style/Widget" />
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\values-sw600dp\dimens.xml"
+                qualifiers="sw600dp" />
+            <file
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\values-sw720dp-land\dimens.xml"
+                qualifiers="sw720dp-land" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\values-v11\styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\values-v14\styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                name="test"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\test.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="advice"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\drawable-mdpi\advice.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="activity_advice"
+                path="D:\work\SkillKidProject\SkillKid\src\main\res\layout\activity_advice.xml"
+                qualifiers=""
+                type="layout" />
+        </source>
+        <source path="D:\work\SkillKidProject\SkillKid\build\res\rs\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="D:\work\SkillKidProject\SkillKid\src\debug\res" />
+    </dataSet>
+
+</merger>
